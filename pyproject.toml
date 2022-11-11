@@ -13,5 +13,5 @@ classifiers = [
     "Operating System :: OSI Independent",
 ]
 [project.urls]
-"Homepage" = "https://github.com/MgrFretka/"
-"Bug Tracker" = "https://github.com/MgrFretka/"
+"Homepage" = "https://github.com/MgrFretka/PyDorr"
+"Bug Tracker" = "https://github.com/MgrFretka/PyDorr/issues"
