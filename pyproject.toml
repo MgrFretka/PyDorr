@@ -1,0 +1,17 @@
+[project]
+name = "Freteq"
+version = "0.0.1"
+authors = [
+    { name="Freteq", email="codeonbusiness.discord@gmail.com" },
+]
+description = "Most of commands to good work in python"
+readme="README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OSI Independent",
+]
+[project.urls]
+"Homepage" = "https://github.com/MgrFretka/"
+"Bug Tracker" = "https://github.com/MgrFretka/"
