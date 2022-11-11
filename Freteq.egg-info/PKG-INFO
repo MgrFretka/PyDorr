@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: Freteq
+Version: 0.0.1
+Summary: Most of commands to good work in python
+Author-email: Freteq <codeonbusiness.discord@gmail.com>
+Project-URL: Homepage, https://github.com/MgrFretka/
+Project-URL: Bug Tracker, https://github.com/MgrFretka/
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OSI Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+Nic specjalnego
+* chyba

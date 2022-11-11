@@ -1,0 +1,17 @@
+LICENSE
+README.md
+pyproject.toml
+Freteq.egg-info/PKG-INFO
+Freteq.egg-info/SOURCES.txt
+Freteq.egg-info/dependency_links.txt
+Freteq.egg-info/top_level.txt
+pydorr/__init__.py
+pydorr/client.py
+pydorr/dorr.py
+pydorr/ext.py
+pydorr/events/error.py
+pydorr/extension/__init__.py
+pydorr/extension/commands.py
+pydorr/extension/tokenizer.py
+pydorr/extension/wake.py
+pydorr/tests/test1.py
